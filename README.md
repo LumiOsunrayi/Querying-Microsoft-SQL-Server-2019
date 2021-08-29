@@ -22,3 +22,6 @@ Introduction to SQL Subqueries - Using subquery in a WHERE clause, Correlated Su
 Creating new variables and a counter for a looping statement
 
 Result Set Operators - UNION, EXCEPT, INTERSECT
+
+![image](https://user-images.githubusercontent.com/89007169/131260717-9dbf5747-acf8-4cf5-91f1-9af351d4b8a2.png)
+
