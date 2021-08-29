@@ -3,44 +3,22 @@ During my Master of Business Analytics degree program, I took a Database Foundat
 
 The course uses Microsoft SQL Server 2019 and the AdventureWorks2017 database.
 
-My learning is in progress. I have covered the following topics;
+The following topics were covered during the course;
 
-What is Transact SQL?
+Introduction to T-SQL Queries - SELECT, FROM, WHERE, ORDER BY, Aliases, Constants
 
-The SQL querying environment
+Additional Filter Techniques - TOP, DISTINCT, Comparison Operators, NULL Values, LIKE, Wildcards
 
-Return records with SELECT and FROM
+Retrieving Records from Multiple Tables using Left, Right, Inner, Cross, and Full Outer Joins
 
-Filter records with WHERE
+Grouping Records using GROUP BY, COUNT, Aggregate Functions, SUM, and HAVING
 
-Sort records with ORDER BY
+Manipulating Data with String, Mathematical, IIF Logical and Date Functions
 
-Column aliases
+Writing SQL Scripts by changing database context with USE, adding comments to a script, and knowing when to use square brackets
 
-Create value with constants
+Introduction to SQL Subqueries - Using subquery in a WHERE clause, Correlated Subqueries, and PIVOT the result set
 
-Limit results with TOP
+Creating new variables and a counter for a looping statement
 
-Remove duplicates with DISTINCT
-
-Comparison operators
-
-Understand NULL values
-
-Match text with LIKE and wildcards
-
-Table joins and relationships
-
-Inner, left, right, cross, and full outer joins
-
-Understand record grouping
-
-Use GROUP BY and COUNT
-
-Aggregate functions
-
-Explore data with SUM
-
-Filter groups with HAVING
-
-The rest of the course covers using functions in T-SQL, writing SQL scripts and subqueries, working with variables and result set operators.
+Result Set Operators - UNION, EXCEPT, INTERSECT
