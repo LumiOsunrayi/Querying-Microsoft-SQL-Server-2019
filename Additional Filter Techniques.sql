@@ -1,4 +1,4 @@
---Limit results with TOP
+--Limiting results with TOP
 SELECT TaxRate, Name
 FROM Sales.SalesTaxRate;
 
@@ -26,7 +26,7 @@ FROM Sales.SalesTaxRate
 ORDER BY TaxRate;
 
 
---Remove duplicates with DISTINCT
+--Removing duplicates with DISTINCT
 SELECT *
 FROM Person.Address;
 
@@ -70,7 +70,7 @@ FROM Sales.SalesTaxRate
 WHERE (TaxRate >= 7) AND (TaxRate <= 10);
 
 
---Understand NULL values
+--Understanding NULL values
 SELECT WorkOrderID, ScrappedQty, ScrapReasonID
 FROM Production.WorkOrder;
 
