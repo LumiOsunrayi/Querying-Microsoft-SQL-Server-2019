@@ -1,5 +1,4 @@
-# Querying-Microsoft-SQL-Server-2019
-During my Master of Business Analytics degree program, I took a Database Foundations class that covered querying data using Microsoft SQL Server up to the intermediate level. However, to hone my skills, be better prepared for the job market and perhaps learn something new, I decided to take an intermediate LinkedIn Learning course - Querying Microsoft SQL Server 2019 by Adam Wilbert.
+# LinkedIn Learning course - Querying Microsoft SQL Server 2019 by Adam Wilbert.
 
 The course uses Microsoft SQL Server 2019 and the AdventureWorks2017 database.
 
